@@ -1,0 +1,16 @@
+{	
+	"PREFIX": "!",
+  "OK_COLOR": "#00E0E0",
+  "ERROR_COLOR": "#F30A40",
+  "ERROR_MESSAGE":"An error has occured", 
+  
+  "URL": "https://transports-brestois.fr",
+
+  "WELCOME_CHANNEL": "👋-nouveaux-membres", 
+  "PRESENTATION_CHANNEL": "🙋-présentation-des-membres", 
+  "TEST_CHANNEL": "🤖-tests-bot",
+  "LOG_CHANNEL": "🖨-logs-bot",
+
+  "MEMBER_ROLE": "Membre",
+  "ADMIN_ROLE": "Administrateur"
+}
