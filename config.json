@@ -1,5 +1,5 @@
 {	
-	"PREFIX": "!",
+  "PREFIX": "!",
   "OK_COLOR": "#00E0E0",
   "ERROR_COLOR": "#F30A40",
   "ERROR_MESSAGE":"An error has occured", 
